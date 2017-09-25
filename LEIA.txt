@@ -1,0 +1,1 @@
+Para acessar o login vá em: admin/admin.php
