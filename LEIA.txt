@@ -1,1 +1,5 @@
-Para acessar o login v· em: admin/admin.php
+Para acessar o login v√° em: admin/admin.php
+Autores:
+- felipe-passada
+- gabriel gasparini: gabrielgasparini11@gmail.com 
+- cesar augusto cutollo: cutolocesar@gmail.com 
